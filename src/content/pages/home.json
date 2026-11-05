@@ -1,0 +1,54 @@
+{
+  "hero": {
+    "eyebrow": "Coffee from another planet",
+    "title": "Your daily orbit starts here.",
+    "body": "Mars Cafe is a playful neighborhood stop for carefully made coffee, warm pastries, and a little escape from Earth.",
+    "primaryCta": "Explore the menu",
+    "secondaryCta": "Find your orbit"
+  },
+  "intro": {
+    "eyebrow": "A small leap for coffee",
+    "title": "Made for curious humans.",
+    "body": "We pair serious coffee craft with a retro space-diner spirit. Come for the espresso, stay for the atmosphere."
+  },
+  "menu": {
+    "eyebrow": "Mission menu",
+    "title": "Fuel for every orbit.",
+    "items": [
+      {
+        "name": "Mars Latte",
+        "description": "Velvety espresso, cinnamon, and a warm cloud of milk.",
+        "price": "$6",
+        "id": "TC2uHAwCkrVK7ayZlzorg"
+      },
+      {
+        "name": "Red Planet Mocha",
+        "description": "Dark chocolate, espresso, and a bright coral dusting.",
+        "price": "$6.50",
+        "id": "mkDdfVaRx3vFdxygw2sH7"
+      },
+      {
+        "name": "Orbit Pastry",
+        "description": "Buttery, flaky, and baked fresh for the morning launch.",
+        "price": "$5",
+        "id": "a5Tp-XecJvcexZ5U6yfnv"
+      }
+    ]
+  },
+  "visit": {
+    "eyebrow": "Come say hello",
+    "title": "Your table is waiting.",
+    "body": "Drop in for a slow morning, a quick refuel, or a coffee worth taking the long way for.",
+    "note": "Location and hours coming soon."
+  },
+  "contact": {
+    "eyebrow": "Questions or catering",
+    "title": "Let’s plan something delicious.",
+    "body": "Tell us what you’re dreaming up, from a quick coffee question to a catered gathering.",
+    "formTitle": "Send Mars Cafe a message"
+  },
+  "footer": {
+    "tagline": "Coffee for curious humans.",
+    "copyright": "Mars Cafe. All rights reserved."
+  }
+}

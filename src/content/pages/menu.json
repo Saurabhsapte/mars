@@ -1,0 +1,121 @@
+{
+  "hero": {
+    "eyebrow": "Mission menu",
+    "title": "Fuel for every orbit.",
+    "body": "Coffee, pastries, and bright little rituals for curious humans."
+  },
+  "sections": [
+    {
+      "title": "Coffee & espresso",
+      "items": [
+        {
+          "name": "Mars Latte",
+          "description": "Velvety espresso, cinnamon, and a warm cloud of milk.",
+          "price": "$6",
+          "id": "On4etp8GOGs64zA9dwI-5"
+        },
+        {
+          "name": "Red Planet Mocha",
+          "description": "Dark chocolate, espresso, and a bright coral dusting.",
+          "price": "$6.50",
+          "id": "Zd-CwmejZunhrU23WDDaP"
+        },
+        {
+          "name": "Solar Flare Cortado",
+          "description": "Double espresso softened with a small pour of steamed milk.",
+          "price": "$4.50",
+          "id": "4A0efsLeXCsamU-nM5nYf"
+        },
+        {
+          "name": "Cosmic Cold Brew",
+          "description": "Slow-steeped cold brew with a smooth, chocolatey finish.",
+          "price": "$5",
+          "id": "87uazcAQ93zDbR8ifcPXi"
+        },
+        {
+          "name": "Launch Pad Americano",
+          "description": "Espresso and hot water, bold and uncomplicated.",
+          "price": "$4",
+          "id": "pysvsSzYmBuiIAzT-REqA"
+        },
+        {
+          "name": "Moon Milk Matcha",
+          "description": "Ceremonial matcha whisked with your choice of milk.",
+          "price": "$5.50",
+          "id": "E_fSHsdq5StRYOPQM62EX"
+        }
+      ],
+      "id": "OaLjk6EeWcJOmKd3FS4eR"
+    },
+    {
+      "title": "Pastries & sweet signals",
+      "items": [
+        {
+          "name": "Orbit Pastry",
+          "description": "Buttery, flaky, and baked fresh for the morning launch.",
+          "price": "$5",
+          "id": "2nxOJd9tnTaWiTbkcM1uX"
+        },
+        {
+          "name": "Meteor Morning Bun",
+          "description": "Cardamom sugar, orange zest, and a tender spiral of dough.",
+          "price": "$5.50",
+          "id": "qbiAQ6U1LxJ6w4ooOOkBx"
+        },
+        {
+          "name": "Starlight Scone",
+          "description": "Seasonal fruit scone with a bright vanilla glaze.",
+          "price": "$4.50",
+          "id": "r94fR724ojH2DIUdDeDKc"
+        },
+        {
+          "name": "Planetary Chocolate Chip Cookie",
+          "description": "Crisp edges, soft center, and plenty of dark chocolate.",
+          "price": "$3.50",
+          "id": "hDTWHnVor8CDlA-P8dOLw"
+        },
+        {
+          "name": "Rocket Fuel Banana Bread",
+          "description": "Toasted walnut banana bread with a pinch of sea salt.",
+          "price": "$4",
+          "id": "3lJmdL9-oifiYZSLaYvib"
+        }
+      ],
+      "id": "sF9pYxxqZNjWTT2rAZRBf"
+    },
+    {
+      "title": "Earthbound extras",
+      "items": [
+        {
+          "name": "Hot Tea",
+          "description": "A rotating selection of herbal, black, and green teas.",
+          "price": "$4",
+          "id": "HUnk-UmfrYRJWwQG-LZNT"
+        },
+        {
+          "name": "Sparkling Citrus",
+          "description": "Bright citrus, bubbles, and a little lift for the afternoon.",
+          "price": "$4.50",
+          "id": "aQZ8M6LMitjqaF03mW7ca"
+        },
+        {
+          "name": "Extra Espresso Shot",
+          "description": "Add another boost to any espresso drink.",
+          "price": "$1.50",
+          "id": "K2MfreLzIOcNPKXqN4NN1"
+        },
+        {
+          "name": "Oat, Almond, or Soy Milk",
+          "description": "Choose your preferred plant-based milk.",
+          "price": "$0.75",
+          "id": "mI3-aN90cd6bOmbvHnhf7"
+        }
+      ],
+      "id": "7RbwsPs4dPZqU2MqZ8TgG"
+    }
+  ],
+  "note": {
+    "title": "Made for your orbit.",
+    "body": "Ask our crew about seasonal specials, decaf options, and dairy-free swaps."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "notFound": {
+    "headline": "Post Not Found",
+    "message": "This transmission seems to have gotten lost in space.",
+    "backLabel": "Back to Blog"
+  },
+  "backLabel": "Back to Blog",
+  "moreLabel": "More from Mars Cafe"
+}

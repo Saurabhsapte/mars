@@ -1,0 +1,31 @@
+{
+  "hero": {
+    "eyebrow": "Visit & contact",
+    "title": "Find your way to Mars Cafe.",
+    "body": "Stop by for a slow morning, a quick refuel, or a coffee worth taking the long way for."
+  },
+  "visit": {
+    "title": "Your table is waiting.",
+    "locationLabel": "Location",
+    "locationValue": "Location details coming soon.",
+    "hoursLabel": "Hours",
+    "hoursValue": "Hours coming soon.",
+    "details": "We’re getting our final coordinates ready. Check back soon for our address and daily hours."
+  },
+  "form": {
+    "eyebrow": "Questions or catering",
+    "title": "Let’s plan something delicious.",
+    "body": "Tell us what you’re dreaming up, from a quick coffee question to a catered gathering.",
+    "formTitle": "Send Mars Cafe a message",
+    "nameLabel": "Your name",
+    "emailLabel": "Email address",
+    "inquiryLabel": "What can we help with?",
+    "guestCountLabel": "Estimated guest count",
+    "dateLabel": "Preferred event date",
+    "messageLabel": "Tell us more",
+    "messagePlaceholder": "Share the details of your question or gathering.",
+    "submitLabel": "Send inquiry",
+    "successMessage": "Thanks — your message is on its way to Mars Cafe.",
+    "errorMessage": "Something went wrong. Please try again."
+  }
+}

@@ -1,0 +1,17 @@
+import { Helmet } from '@dr.pogodin/react-helmet';
+import { Coffee, Sparkles } from 'lucide-react';
+import { menu } from 'virtual:content';
+
+const siteUrl = 'https://marscafe.example';
+const pageUrl = `${siteUrl}/menu`;
+const title = 'Coffee & Pastry Menu | Mars Cafe';
+const description = 'Explore Mars Cafe drinks, pastries, and prices—from espresso and cold brew to fresh-baked cosmic treats.';
+const jsonLd = { '@context': 'https://schema.org', '@type': 'WebPage', '@id': `${pageUrl}#webpage`, name: title, url: pageUrl, isPartOf: { '@id': `${siteUrl}/#website` }, about: { '@id': `${siteUrl}/#organization` } };
+
+export default function MenuPage() {
+  return <><Helmet><title>{title}</title><meta name="description" content={description} /><link rel="canonical" href={pageUrl} /><meta property="og:title" content={title} /><meta property="og:description" content={description} /><meta property="og:type" content="website" /><meta property="og:url" content={pageUrl} /><meta property="og:image" content={`${siteUrl}/airo-assets/images/pages/home/hero-mars-coffee`} /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content={title} /><meta name="twitter:description" content={description} /><meta name="twitter:image" content={`${siteUrl}/airo-assets/images/pages/home/hero-mars-coffee`} /><script type="application/ld+json">{JSON.stringify(jsonLd)}</script></Helmet><main>
+    <section className="relative overflow-hidden bg-secondary text-secondary-foreground"><div className="pointer-events-none absolute inset-0 opacity-20" style={{ backgroundImage: 'radial-gradient(hsl(var(--accent)) 1px, transparent 1px)', backgroundSize: '18px 18px' }} /><div className="container relative mx-auto px-4 py-16 text-center sm:px-6 md:py-24"><p className="font-bold text-accent">{menu.hero.eyebrow}</p><h1 className="mx-auto mt-4 max-w-3xl font-heading text-5xl leading-[0.95] sm:text-6xl">{menu.hero.title}</h1><p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-secondary-foreground">{menu.hero.body}</p></div></section>
+    <section className="bg-background"><div className="container mx-auto px-4 py-16 sm:px-6 md:py-24"><div className="grid gap-12">{menu.sections.map((section) => <section key={section.id} aria-labelledby={section.id}><div className="flex items-center gap-3 border-b-4 border-primary pb-4"><Coffee className="text-primary" size={28} /><h2 id={section.id} className="font-heading text-3xl text-secondary sm:text-4xl">{section.title}</h2></div><div className="mt-6 grid grid-cols-1 gap-x-10 gap-y-5 md:grid-cols-2">{section.items.map((item) => <article key={item.id} className="grid grid-cols-[1fr_auto] gap-x-5 border-b-2 border-border pb-5"><div><h3 className="font-heading text-xl leading-tight text-secondary">{item.name}</h3><p className="mt-2 leading-7 text-muted-foreground">{item.description}</p></div><p className="font-heading text-xl text-primary">{item.price}</p></article>)}</div></section>)}</div></div></section>
+    <section className="border-y-4 border-secondary bg-accent"><div className="container mx-auto px-4 py-16 sm:px-6 md:py-20"><div className="mx-auto max-w-3xl border-2 border-secondary bg-card p-8 text-center shadow-[7px_7px_0_hsl(var(--secondary))] sm:p-10"><Sparkles className="mx-auto text-primary" size={30} /><h2 className="mt-5 font-heading text-3xl text-secondary">{menu.note.title}</h2><p className="mt-4 text-lg leading-8 text-muted-foreground">{menu.note.body}</p></div></div></section>
+  </main></>;
+}

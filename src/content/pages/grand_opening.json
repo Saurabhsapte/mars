@@ -1,0 +1,57 @@
+{
+  "hero": {
+    "badge": "Grand Opening — September 24, 2026",
+    "headline": "We Have Liftoff.",
+    "subheadline": "Mars Cafe is officially open. Retro booths, cosmic brews, and opening week specials you won't want to miss.",
+    "ctaLabel": "See Our Menu"
+  },
+  "countdown": {
+    "bannerText": "Opening week specials end in",
+    "bannerSuffix": "— don't miss out!"
+  },
+  "offers": {
+    "heading": "Opening Week Specials",
+    "subheading": "Celebrate with us — these offers are only available through October 5th.",
+    "items": [
+      {
+        "id": "offer-1",
+        "title": "Buy 1 Get 1 Free",
+        "desc": "All coffees, all day, every day during opening week. Bring your co-pilot."
+      },
+      {
+        "id": "offer-2",
+        "title": "Free Pastry",
+        "desc": "The first 50 guests each day get a complimentary pastry. First come, first served."
+      },
+      {
+        "id": "offer-3",
+        "title": "Loyalty Card",
+        "desc": "Every new visitor gets a loyalty card. Your 10th coffee is on us — always."
+      }
+    ]
+  },
+  "visit": {
+    "heading": "Plan Your Visit",
+    "hours": {
+      "label": "Hours",
+      "weekday": "Mon – Fri: 7 AM – 8 PM",
+      "weekend": "Sat – Sun: 8 AM – 9 PM"
+    },
+    "location": {
+      "label": "Location",
+      "name": "Mars Cafe",
+      "tagline": "Come find your orbit ☕"
+    },
+    "ctaLabel": "Get Directions"
+  },
+  "ended": {
+    "headline": "The Launch Party Is Over",
+    "message": "Our Grand Opening week has wrapped up — but Mars Cafe is open every day. Come find your orbit anytime.",
+    "ctaLabel": "Visit Mars Cafe"
+  },
+  "comingSoon": {
+    "headline": "Prepare for Liftoff",
+    "message": "Mars Cafe is launching on September 24th. Opening week specials await.",
+    "ctaLabel": "Preview Our Menu"
+  }
+}

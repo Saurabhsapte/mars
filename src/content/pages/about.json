@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "eyebrow": "Our story",
+    "title": "A neighborhood cafe with its head in the stars.",
+    "body": "Mars Cafe is a retro space-diner inspired stop for carefully made coffee, warm pastries, and everyday escapes from Earth."
+  },
+  "story": {
+    "title": "Built for curious humans.",
+    "paragraphs": [
+      {
+        "text": "Mars Cafe began with a simple idea: a great cup of coffee can make an ordinary day feel like a small adventure.",
+        "id": "QbkVeT9K28JCpWNiyAK5G"
+      },
+      {
+        "text": "We blend serious coffee craft with the bright optimism of mid-century space travel—welcoming booths, cosmic color, and a menu made for every orbit.",
+        "id": "4beK-31o9RPOIuOG60zHz"
+      }
+    ]
+  },
+  "values": {
+    "title": "What keeps us in orbit.",
+    "items": [
+      {
+        "title": "Coffee with intention",
+        "body": "Thoughtfully prepared drinks, from the first espresso pull to the final pour.",
+        "id": "3VdOZvwBgX1RpJ9v7l9mU"
+      },
+      {
+        "title": "A little wonder",
+        "body": "A playful place to pause, connect, and take the long way through your day.",
+        "id": "jPnglkDUwHrik49ZP1mTR"
+      },
+      {
+        "title": "Warm welcomes",
+        "body": "Good coffee tastes even better when everyone has a seat at the table.",
+        "id": "dRE5tYY23IsYwj_MYgjAW"
+      }
+    ]
+  },
+  "visit": {
+    "title": "Come find your orbit.",
+    "body": "Drop in for a slow morning, a quick refuel, or a coffee worth lingering over.",
+    "cta": "Plan your visit"
+  }
+}

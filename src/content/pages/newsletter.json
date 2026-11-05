@@ -1,0 +1,10 @@
+{
+  "eyebrow": "Stay in orbit",
+  "title": "Café updates, straight to your inbox.",
+  "body": "Get first dibs on seasonal drinks, fresh pastry drops, and the occasional Mars Cafe promotion.",
+  "emailLabel": "Email address",
+  "emailPlaceholder": "you@example.com",
+  "submitLabel": "Join the list",
+  "successMessage": "You’re on the list. See you in orbit.",
+  "errorMessage": "We couldn’t save your signup. Please try again."
+}

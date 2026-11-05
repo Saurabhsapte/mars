@@ -1,0 +1,355 @@
+{
+  "logo/primary": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/transparent-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png",
+    "searchQuery": "A polished retro space-diner logo for Mars Cafe. Create a warm rust-red Mars sph",
+    "alternatives": [],
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/transparent-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/original-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/transparent-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/transparent-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png"
+    },
+    "landscapeMockupUrlMap": {},
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/transparent-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png": {
+        "sessionId": "a61b91a2-73a1-4998-8692-3e1e8039e4be",
+        "logoId": "395deaca-89e1-490a-ae0c-12f9902145ee",
+        "groupId": "1fab6964-041e-4eba-a9f4-09600012d860"
+      }
+    },
+    "productMockupsMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/transparent-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/mockup-mug-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/mockup-card-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/mockup-tshirt-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/mockup-box-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png"
+        }
+      ]
+    },
+    "productMockups": [
+      {
+        "type": "mug",
+        "label": "Mug",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/mockup-mug-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png"
+      },
+      {
+        "type": "card",
+        "label": "Business Card",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/mockup-card-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png"
+      },
+      {
+        "type": "tshirt",
+        "label": "T-Shirt",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/mockup-tshirt-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png"
+      },
+      {
+        "type": "box",
+        "label": "Packaging",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/mockup-box-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png"
+      }
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-06T05:54:03.899Z",
+    "lastUpdated": "2026-08-06T05:54:55.512Z",
+    "surfaceMode": "light",
+    "generatedForSurfaceColor": "#FFFFFF",
+    "lightSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/transparent-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png",
+    "logoGroupId": "1fab6964-041e-4eba-a9f4-09600012d860"
+  },
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/79992d9a-3bf6-42fe-b9e1-6a035ffdf5b5/horizontal-transparent-d3fe2931-d42c-4113-9ce2-9834ea26d8e5/logo-logo.png",
+    "searchQuery": "Create a high-contrast horizontal Mars Cafe logo variant for a deep warm espress",
+    "alternatives": [],
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/6d035f5d-ad14-4769-a3d1-ae3b1f04a66d/horizontal-transparent-c4d7b3ad-cf3c-44c1-ab02-dbd52ef7e7f1/logo-logo.png": {
+        "sessionId": "a61b91a2-73a1-4998-8692-3e1e8039e4be",
+        "logoId": "395deaca-89e1-490a-ae0c-12f9902145ee"
+      },
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/79992d9a-3bf6-42fe-b9e1-6a035ffdf5b5/horizontal-transparent-d3fe2931-d42c-4113-9ce2-9834ea26d8e5/logo-logo.png": {
+        "sessionId": "79992d9a-3bf6-42fe-b9e1-6a035ffdf5b5",
+        "logoId": "d3fe2931-d42c-4113-9ce2-9834ea26d8e5",
+        "groupId": "1fab6964-041e-4eba-a9f4-09600012d860"
+      }
+    },
+    "logoGroupId": "1fab6964-041e-4eba-a9f4-09600012d860",
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/6d035f5d-ad14-4769-a3d1-ae3b1f04a66d/horizontal-transparent-c4d7b3ad-cf3c-44c1-ab02-dbd52ef7e7f1/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/6d035f5d-ad14-4769-a3d1-ae3b1f04a66d/horizontal-original-c4d7b3ad-cf3c-44c1-ab02-dbd52ef7e7f1/logo-logo.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/6d035f5d-ad14-4769-a3d1-ae3b1f04a66d/horizontal-transparent-c4d7b3ad-cf3c-44c1-ab02-dbd52ef7e7f1/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/6d035f5d-ad14-4769-a3d1-ae3b1f04a66d/horizontal-transparent-c4d7b3ad-cf3c-44c1-ab02-dbd52ef7e7f1/logo-logo.png"
+    },
+    "landscapeMockupUrlMap": {},
+    "productMockupsMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/6d035f5d-ad14-4769-a3d1-ae3b1f04a66d/horizontal-transparent-c4d7b3ad-cf3c-44c1-ab02-dbd52ef7e7f1/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/mockup-mug-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/mockup-card-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/mockup-tshirt-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/mockup-box-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png"
+        }
+      ]
+    },
+    "userModified": false,
+    "createdAt": "2026-08-06T05:54:03.899Z",
+    "lastUpdated": "2026-08-06T06:36:31.443Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#3D2A22",
+    "lightSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/6d035f5d-ad14-4769-a3d1-ae3b1f04a66d/horizontal-transparent-c4d7b3ad-cf3c-44c1-ab02-dbd52ef7e7f1/logo-logo.png",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/79992d9a-3bf6-42fe-b9e1-6a035ffdf5b5/horizontal-transparent-d3fe2931-d42c-4113-9ce2-9834ea26d8e5/logo-logo.png"
+  },
+  "logo/vertical": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/c0d2c4ce-cc07-4e7c-85f2-6d8cca08c470/vertical-transparent-3b52ed42-d4c6-4335-a6df-dd3d4f79f58d/logo-logo.png",
+    "searchQuery": "A polished retro space-diner logo for Mars Cafe. Create a warm rust-red Mars sph",
+    "alternatives": [],
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/c0d2c4ce-cc07-4e7c-85f2-6d8cca08c470/vertical-transparent-3b52ed42-d4c6-4335-a6df-dd3d4f79f58d/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/c0d2c4ce-cc07-4e7c-85f2-6d8cca08c470/vertical-original-3b52ed42-d4c6-4335-a6df-dd3d4f79f58d/logo-logo.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/c0d2c4ce-cc07-4e7c-85f2-6d8cca08c470/vertical-transparent-3b52ed42-d4c6-4335-a6df-dd3d4f79f58d/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/c0d2c4ce-cc07-4e7c-85f2-6d8cca08c470/vertical-transparent-3b52ed42-d4c6-4335-a6df-dd3d4f79f58d/logo-logo.png"
+    },
+    "landscapeMockupUrlMap": {},
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/c0d2c4ce-cc07-4e7c-85f2-6d8cca08c470/vertical-transparent-3b52ed42-d4c6-4335-a6df-dd3d4f79f58d/logo-logo.png": {
+        "sessionId": "a61b91a2-73a1-4998-8692-3e1e8039e4be",
+        "logoId": "395deaca-89e1-490a-ae0c-12f9902145ee"
+      }
+    },
+    "productMockupsMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/c0d2c4ce-cc07-4e7c-85f2-6d8cca08c470/vertical-transparent-3b52ed42-d4c6-4335-a6df-dd3d4f79f58d/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/mockup-mug-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/mockup-card-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/mockup-tshirt-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/mockup-box-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png"
+        }
+      ]
+    },
+    "productMockups": [
+      {
+        "type": "mug",
+        "label": "Mug",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/mockup-mug-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png"
+      },
+      {
+        "type": "card",
+        "label": "Business Card",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/mockup-card-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png"
+      },
+      {
+        "type": "tshirt",
+        "label": "T-Shirt",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/mockup-tshirt-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png"
+      },
+      {
+        "type": "box",
+        "label": "Packaging",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/a61b91a2-73a1-4998-8692-3e1e8039e4be/mockup-box-395deaca-89e1-490a-ae0c-12f9902145ee/logo-logo.png"
+      }
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-06T05:54:03.899Z",
+    "lastUpdated": "2026-08-06T05:54:30.222Z",
+    "surfaceMode": "light",
+    "generatedForSurfaceColor": "#FFFFFF",
+    "lightSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/c0d2c4ce-cc07-4e7c-85f2-6d8cca08c470/vertical-transparent-3b52ed42-d4c6-4335-a6df-dd3d4f79f58d/logo-logo.png"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/e0344171-bc93-490f-82be-ac09effc31d1/favicon-transparent-1b1a9885-e9a3-4ca0-9fb2-5562f5dc596d/logo-logo.png",
+    "searchQuery": "favicon",
+    "alternatives": [],
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/e0344171-bc93-490f-82be-ac09effc31d1/favicon-transparent-1b1a9885-e9a3-4ca0-9fb2-5562f5dc596d/logo-logo.png": {
+        "sessionId": "e0344171-bc93-490f-82be-ac09effc31d1",
+        "logoId": "1b1a9885-e9a3-4ca0-9fb2-5562f5dc596d",
+        "groupId": "1fab6964-041e-4eba-a9f4-09600012d860"
+      }
+    },
+    "logoGroupId": "1fab6964-041e-4eba-a9f4-09600012d860",
+    "userModified": false,
+    "createdAt": "2026-08-06T05:54:30.564Z",
+    "lastUpdated": "2026-08-06T05:54:55.616Z",
+    "surfaceMode": "light",
+    "generatedForSurfaceColor": "#FFFFFF",
+    "lightSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2432887b-e88a-45d3-bd5d-0c828ecc1c33/session/e0344171-bc93-490f-82be-ac09effc31d1/favicon-transparent-1b1a9885-e9a3-4ca0-9fb2-5562f5dc596d/logo-logo.png"
+  },
+  "pages/home/hero-mars-coffee": {
+    "orientations": "square",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/174804615",
+    "searchQuery": "retro space diner coffee shop aesthetic",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1350785289",
+      "https://img1.wsimg.com/isteam/getty/2287066985"
+    ],
+    "userModified": true,
+    "createdAt": "2026-08-06T06:00:10.761Z",
+    "lastUpdated": "2026-09-21T18:47:29.899Z",
+    "gettyId": "174804615",
+    "alternativeGettyIds": [
+      "1350785289",
+      "2287066985"
+    ]
+  },
+  "menu/orbit-pastry": {
+    "requestedSize": {
+      "width": 800,
+      "height": 800,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "compositions": "close_up",
+    "moods": "warm",
+    "graphicalStyles": "photography",
+    "sortOrder": "best_match",
+    "numberOfPeople": "none",
+    "ethnicity": "",
+    "ageOfPeople": "",
+    "minimumSize": "medium",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2264258323",
+    "searchQuery": "fresh pastry cafe plate close up",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1398378316",
+      "https://img1.wsimg.com/isteam/getty/2281427142"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-06T06:00:12.232Z",
+    "lastUpdated": "2026-08-06T06:00:12.232Z",
+    "gettyId": "2264258323",
+    "alternativeGettyIds": [
+      "1398378316",
+      "2281427142"
+    ]
+  },
+  "menu/mars-latte": {
+    "requestedSize": {
+      "width": 800,
+      "height": 800,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "compositions": "close_up",
+    "moods": "warm",
+    "graphicalStyles": "photography",
+    "sortOrder": "best_match",
+    "numberOfPeople": "none",
+    "ethnicity": "",
+    "ageOfPeople": "",
+    "minimumSize": "medium",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1128030481",
+    "searchQuery": "artisanal latte in ceramic cup cafe close up",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2230840470",
+      "https://img1.wsimg.com/isteam/getty/2205533795"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-06T06:00:12.488Z",
+    "lastUpdated": "2026-08-06T06:00:12.488Z",
+    "gettyId": "1128030481",
+    "alternativeGettyIds": [
+      "2230840470",
+      "2205533795"
+    ]
+  },
+  "pages/lp/grand-opening-hero": {
+    "requestedSize": {
+      "width": 1400,
+      "height": 700,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1720798819",
+    "searchQuery": "retro space diner cafe grand opening celebration",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/956025576",
+      "https://img1.wsimg.com/isteam/getty/2165368703",
+      "https://img1.wsimg.com/isteam/getty/2164569725",
+      "https://img1.wsimg.com/isteam/getty/482307142"
+    ],
+    "userModified": false,
+    "createdAt": "2026-09-21T18:51:35.327Z",
+    "lastUpdated": "2026-09-21T18:51:35.327Z",
+    "gettyId": "1720798819",
+    "alternativeGettyIds": [
+      "956025576",
+      "2165368703",
+      "2164569725",
+      "482307142"
+    ]
+  },
+  "blog/mars-cafe-has-landed": {
+    "requestedSize": {
+      "width": 1200,
+      "height": 630,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1365362546",
+    "searchQuery": "retro cafe coffee shop cozy interior",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1445890761",
+      "https://img1.wsimg.com/isteam/getty/1326498124"
+    ],
+    "userModified": false,
+    "createdAt": "2026-09-21T18:51:45.010Z",
+    "lastUpdated": "2026-09-21T18:51:45.010Z",
+    "gettyId": "1365362546",
+    "alternativeGettyIds": [
+      "1445890761",
+      "1326498124"
+    ]
+  }
+}
